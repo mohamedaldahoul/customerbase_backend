@@ -1,34 +1,40 @@
 {
   "customers": [
-    { "id":"1", 
-      "name": "Johan", 
-      "email": "johan@email.com", 
-      "age": 37 
+    {
+      "id": "1",
+      "name": "Johan",
+      "email": "johan@email.com",
+      "age": 37
     },
-    { "id":"2", 
-      "name": "Gary", 
-      "email": "gary@email.com", 
-      "age": 28
+    {
+      "id": "3",
+      "name": "Ismail",
+      "email": "ismail@email.com",
+      "age": 22
     },
-    { "id":"3", 
-      "name": "Ismail", 
-      "email": "ismail@email.com", 
-      "age": 22 
+    {
+      "id": "4",
+      "name": "Abo Ismail",
+      "email": "Inarah@email.com",
+      "age": 87
     },
-    { "id":"4", 
-      "name": "Inarah", 
-      "email": "Inarah@email.com", 
-      "age": 87 
-    },
-    { "id":"5", 
-      "name": "Jamilla", 
-      "email": "Jamilla@email.com", 
+    {
+      "id": "5",
+      "name": "Jamilla",
+      "email": "Jamilla@email.com",
       "age": 25
     },
-    { "id":"6", 
-      "name": "Susu", 
-      "email": "Susu@email.com", 
+    {
+      "id": "6",
+      "name": "Susu",
+      "email": "Susu@email.com",
       "age": 34
+    },
+    {
+      "name": "Abo Ali",
+      "email": "abo.ali@email.com",
+      "age": 44,
+      "id": "wm0sRKM"
     }
   ]
 }
